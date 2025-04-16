@@ -6,8 +6,7 @@
 - **Subject**: [IMAD5112]
 
 Links
-- **GitHub Repository**: [[Repository URL](https://github.com/VCSTDN2024/imad-assignment-1-ST10474150.git)]
-
+- **GitHub Repository**: https://github.com/ST10474150/EZ_Quotes.git
 
 Why:
 EZ Quotes is designed to help handy men and carpenters manage and track their prices with ease.
